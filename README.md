@@ -1,6 +1,9 @@
-#Welcome to the Game Design Camp Resources
+# Welcome to the Game Design Camp Resources!
+
+
 
 ### GB Studio Resources
+
 #### Sprites and Characters
 https://itch.io/c/3407019/gb-studio-assets
 
