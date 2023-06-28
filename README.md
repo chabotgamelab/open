@@ -17,3 +17,15 @@ https://itch.io/c/3407019/gb-studio-assets
 https://apps.lospec.com/pixel-editor
 
 Font: small fonts
+
+
+### Music
+Testing different types of sound waves using a MIDI Keyboard:
+https://ampedstudio.com/manual/recording-audio-midi/
+
+
+
+# Random
+
+#### HackDavis - Chabot Game Lab Team Project
+https://github.com/Mon-Rico/HackDavis-2023--Game--Project
