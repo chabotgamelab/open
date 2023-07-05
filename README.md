@@ -8,7 +8,7 @@
 https://itch.io/c/3407019/gb-studio-assets
 
 #### Tilemap editor
-https://blurymind.github.io/tilemap-editor/?imgur=DAVpRAH
+https://blurymind.github.io/tilemap-editor/?imgur=Nmct0B9
 
 #### Sound
 https://itch.io/c/3407019/gb-studio-assets
