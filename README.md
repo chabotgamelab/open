@@ -29,6 +29,7 @@ Lab [Create Flappy Bird in PICO-8](https://docs.google.com/presentation/d/1SKsep
 # Day 2
 Day 2: Programming & GB Studio Intro 
 Lab [Intro to GB Studio](https://docs.google.com/presentation/d/1mCOxxLBGRv4-yy_xXw6SW1YJI2UMjKeeI9Ih20Fbbt4/edit)
+
 Mission #1 [Worldbuilding](https://introtoengineering.notion.site/Mission-1-Do-Worldbuilding-e0f80a2fcc48463393a95a6c47383076)
 
 Mission #2 [Write Code on Paper!?](https://introtoengineering.notion.site/Mission-2-Write-Code-on-Paper-4dc67053563a43d69de80ca8c9f76644)
